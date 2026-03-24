@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646581191451",
+    "project_id": "padel-stream-fe4e8",
+    "storage_bucket": "padel-stream-fe4e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646581191451:android:38f2764ada3dea47e849be",
+        "android_client_info": {
+          "package_name": "com.padelstream.padel_stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDND3pCWOpVa4afa8-wfh8ifDW-MiVJltU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
