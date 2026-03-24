@@ -1,0 +1,7 @@
+This is a Flutter app for padel match streaming.
+
+State Management: Use BLoC/Cubit.
+
+Backend: Firebase (refer to firebase.json).
+
+Goal: High-performance video playback and live score updates.
